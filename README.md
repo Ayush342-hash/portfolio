@@ -57,6 +57,18 @@ To run this project locally, follow these steps:
 
 To start the development server, run:
 ```bash
+npm
+```
 
-
+#Screenshots
+Front Page
+![1](https://github.com/user-attachments/assets/a04167c1-1903-4754-b1f6-da9fc5486c24)
+Introduction
+![2](https://github.com/user-attachments/assets/ee0a378d-0433-4285-8c3d-d9f0be7b5c7b)
+Skills
+![3](https://github.com/user-attachments/assets/2adfa7b7-7879-4c8a-8d89-35a56ce7691f)
+Projects
+![4](https://github.com/user-attachments/assets/a12773a9-273e-41c1-9f40-f3b2680209f8)
+Contact
+![5](https://github.com/user-attachments/assets/939807f7-4e51-41cd-9b64-74724976a912)
 
