@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 To start the development server, run:
 ```bash
-npm start
+
 
 Front page 
 ![1](https://github.com/user-attachments/assets/cf7e2f44-2853-4a81-9981-83ac3ef59f6f)
